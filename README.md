@@ -2,6 +2,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Truptimayee Panigrahy) 
+
 Portfolio:-https://truptimayeepanigrahy.github.io/
 
 # 💻 Tech Stack:
