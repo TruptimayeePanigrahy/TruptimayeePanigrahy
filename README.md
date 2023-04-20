@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/truptimayee-panigrahy/) 
 </br>
 
-[portfolio](TruptimayeePanigrahy.github.io)
+[portfolio](https://TruptimayeePanigrahy.github.io)
 
 
 # 💻 Tech Stack:
