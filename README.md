@@ -1,4 +1,38 @@
-"# TruptimayeePanigrahy" 
+<div align="center">
+    <img width="100%" height="250px" src="https://www.giet.edu/wp-content/uploads/2019/08/computer-science.jpg"
+        alt="cover" />
+</div>
+
+<h1> Hello
+    < Developers />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>
+</h1>
+<h1 align="center"> 👋, I'm Truptimayee Panigrahy</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+<p align='center'>
+
+   
+
+</p>
+<div size='20px'> Hi! My name is Trupti. Thank You for taking the time to view my GitHub Profile :smile:
+</div>
+
+<h2> About Me <img
+        src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"
+        width=100px></h2>
+
+<img width="55%" align="right" alt="Github"
+    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on HTML, CSS, JavaScript, MongoDB and Express.js
+
+- 🌱 I’m currently learning Node.js
+
+- 📫 How to reach me **panigrahydeepakkumar27@gmail.com**
+
+- 👯 I’m looking to collaborate on Hackathon and social media application
+
+- 💬 Talk to me about Web Frontend and Backend
 
 
 ## 🌐 Socials:
