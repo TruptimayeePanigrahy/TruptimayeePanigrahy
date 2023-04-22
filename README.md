@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/truptimayee-panigrahy/)
 </br>
-<a href="https://TruptimayeePanigrahy.github.io/"><img  style ="width:180px;height:100px;border:1px solid pink" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCTF35sltpfEfdHkmPlRs9tbnIsol4xeq9g&usqp=CAU"/></a>
+<a href="https://TruptimayeePanigrahy.github.io/"><img  style ="width:180px;height:60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCTF35sltpfEfdHkmPlRs9tbnIsol4xeq9g&usqp=CAU"/></a>
 
 # 💻 Tech Stack:
 
