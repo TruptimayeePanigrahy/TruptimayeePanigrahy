@@ -11,7 +11,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Trupti. Thank You for visiting my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Trupti. Thank You for visiting my GitHub Profile 
 </div>
 
 <h2> About Me <img
