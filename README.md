@@ -7,7 +7,7 @@
     < Developers />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px>
 </h1>
 <h1 align="center"> 👋, I'm Truptimayee Panigrahy</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Full stack web developer</h3>
 <p align='center'>
 
 </p>
